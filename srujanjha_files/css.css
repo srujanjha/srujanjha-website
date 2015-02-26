@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Forum';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Forum'), url(http://fonts.gstatic.com/s/forum/v7/eMDvaUkVr_spjjcEeqYI5A.woff2) format('woff2'), url(http://fonts.gstatic.com/s/forum/v7/KsJrhVlKA7udJPNqNdl2fA.woff) format('woff');
+}
